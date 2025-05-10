@@ -1,0 +1,2 @@
+# ModuMini
+Modular Miniature Manager
